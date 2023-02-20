@@ -1,4 +1,4 @@
-NEUROIMAGING Neurotech microcredentials module 2
+NEUROIMAGING Neurotech microcredentials module 4
 =================
 `Neurotech micro-crendtial program <https://neurotechmicrocreds.com/>`_
 
@@ -6,17 +6,13 @@ NEUROIMAGING Neurotech microcredentials module 2
 Summary
 -------
 
-``neuroimaging_m2`` is the second module of the Neuroimaging Micro-credential, and focuses on structural neuroimaging. This repo exists to help facilitate the interactive activities and assignments, and offers links to additional external resources not mentioned in the main course slides.
+``neuroimaging_m4`` is the fourth and final module of the Neuroimaging Micro-credential, and is the last of 2 modules that focus on functional neuroimaging. Module 4 content explores functional neuroimaging technologies that provide high temporal resolution. This repo exists to help facilitate the interactive activities and assignments, and offers links to additional external resources not mentioned in the main course slides.
 
 Activities
 ----------
 If you are here for an interactive acitivty, please click on the corresponding activity from the list below. Note that the options are ordered according to their positions in the course materials.
 
-* `T1-weighted image viewer <https://github.com/neurotech-course/neuroimaging_m2/README.rst>`_
-* `T2-weighted image viewer <https://github.com/neurotech-course/neuroimaging_m2/README.rst>`_
-* `Comparing structural images obtained with low- and high-field MR scanners <https://github.com/neurotech-course/neuroimaging_m2/README.rst>`_
-* `Localizing brain regions within individual participants <https://github.com/neurotech-course/neuroimaging_m2/README.rst>`_
-
+* tbd
 
 Repo Structure
 --------------
