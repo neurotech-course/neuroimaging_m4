@@ -1,4 +1,4 @@
-NMC-M1 - NEUROIMAGING Neurotech microcredentials module 2
+NEUROIMAGING Neurotech microcredentials module 2
 =================
 `Neurotech micro-crendtial program <https://neurotechmicrocreds.com/>`_
 
